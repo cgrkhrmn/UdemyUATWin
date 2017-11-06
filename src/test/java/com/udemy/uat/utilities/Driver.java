@@ -9,7 +9,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import com.udemy.uat.utilities.ConfigurationReader;
 
-
+//
 public class Driver {
 	
 	public static WebDriver driver;
